@@ -1,0 +1,4 @@
+cuda-keyring_1.1-1_all.deb
+logs/
+*.Zone.Identifier
+__pycache__/
